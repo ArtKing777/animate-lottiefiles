@@ -1,6 +1,9 @@
-# animate-lottiefiles
+# Animate-Lottiefiles
 
 Simple but awesome animation using [LottieFiles](https://www.lottiefiles.com/)
+
+![Example1](https://github.com/ArtKing777/animate-lottiefiles/blob/master/loading.gif)
+
 
 ## How to use it?
 
@@ -23,5 +26,3 @@ You can call `bodymovin.loadAnimation(animationParams)` to start an animation. I
 - name: animation name for future reference
 - renderer: 'svg' / 'canvas' / 'html' to set the renderer
 - container: the dom element on which to render the animation
-
-## Screen
